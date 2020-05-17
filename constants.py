@@ -1,4 +1,0 @@
-PRICE_LOWER_BOUND_ROOMS_1 = 500
-PRICE_UPPER_BOUND_ROOMS_1 = 1500
-MATERIAL = ['кирпич', 'панель']
-SALES_TYPE = 'вторичное'
